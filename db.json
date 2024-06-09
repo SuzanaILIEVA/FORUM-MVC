@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "ff867aec-1452-4ec5-bb37-75ccd6234fe4",
+      "date": "2023-09-11T19:59:57.523Z",
+      "title": "MVVM Nedir?",
+      "text": "Nası l oluyor\n",
+      "user": "Mehmet"
+    },
+    {
+      "id": "02db8f75-0321-4edb-af18-e5b0783acda6",
+      "date": "2023-09-11T20:00:15.908Z",
+      "title": "React ile proje ",
+      "text": "React ile proje  nasıl geliştirilir????",
+      "user": "Ali"
+    },
+    {
+      "id": "2acc28ec-af79-4201-9ea8-661487c6312e",
+      "date": "2024-06-06T22:24:36.912Z",
+      "user": "Ahmet",
+      "title": "React",
+      "text": "React toolkit projesi yapilacak!"
+    },
+    {
+      "id": "aa6ea095-2a12-4dbb-9d06-e1b3b4bae605",
+      "date": "2024-06-06T22:26:22.104Z",
+      "user": "Mehmet",
+      "title": "Projeler",
+      "text": "Projeler bu hafta sonu bitiyor"
+    },
+    {
+      "id": "fae78eeb-08d2-4d88-8b9a-801fc4ee0577",
+      "date": "2024-06-06T22:27:10.022Z",
+      "user": "Mehmet",
+      "title": "MVC",
+      "text": "MVC projesi tamamlandi "
+    },
+    {
+      "id": "825349bb-c146-4a58-a7ba-3c9e5ac4de75",
+      "date": "2024-06-09T22:01:42.229Z",
+      "user": "suzi",
+      "title": "MVC NEDIR?",
+      "text": "Model-View-Controller, yazılım mühendisliğinde kullanılan bir \"mimari desen\" veya bir \"tasarım deseni\"dir. Kullanıcıya yüklü miktarda verinin sunulduğu karmaşık uygulamalarda veri ve gösterimin soyutlanması esasına dayanır."
+    }
+  ]
+}
